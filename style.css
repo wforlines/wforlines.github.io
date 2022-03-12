@@ -16,6 +16,12 @@ h2 {
     font-size: 2vw;
     text-align: right;
     }
+
+h3 {
+    font-family: 'Spartan', sans-serif;
+    font-size: 2vw;
+    text-align: right;
+    font-weight: 300;}
     
 p {
     font-family: verdana;
