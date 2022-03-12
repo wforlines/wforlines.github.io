@@ -1,0 +1,31 @@
+body {
+    background-color: #1a1aff;
+    color: white;
+    font-family: 'EB Garamond', 'Garamond', 'Times New Roman', serif;}
+
+h1 {
+    font-family: 'Spartan', sans-serif;
+    font-size: 4.5vw;
+    padding-bottom: 8px;
+    border-width: 3px;
+    border-bottom-style: solid;
+}
+
+h2 {
+    font-family: 'Spartan', sans-serif;
+    font-size: 2vw;
+    text-align: right;
+    }
+    
+p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+
+#page
+{
+	max-width: 960px;
+	margin: 16%
+}
+#homeblock {
+    padding-top: 96px;
